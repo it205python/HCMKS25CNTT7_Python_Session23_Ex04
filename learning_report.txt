@@ -1,0 +1,4 @@
+BÁO CÁO HỌC TẬPThời gian tạo: 2026-06-16 23:54:41.447114 
+Tổng số sinh viên: 3 
+Số sinh viên đạt yêu cầu: 2 
+Số sinh viên cần cải thiện: 1 
